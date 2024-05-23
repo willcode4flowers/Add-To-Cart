@@ -1,4 +1,4 @@
-To Preview the Add to Cart 'Mobile' App: https://app.netlify.com/sites/legendary-druid-eb8839/overview
+To Preview the Add to Cart 'Mobile' App: https://phenomenal-kashata-f7d7e4.netlify.app/
 
 Quick start:
 
